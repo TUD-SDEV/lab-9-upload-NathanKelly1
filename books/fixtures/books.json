@@ -1,0 +1,35 @@
+[
+  {
+    "model": "books.book",
+    "pk": "5a18e3de-6cfc-4c45-9a3b-085fa0724724",
+    "fields": {
+      "title": "Liverpool",
+      "author": "Alex fergie",
+      "price": "21.00",
+      "date_publication": "2002-12-25",
+      "cover": ""
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": "94989422-e64b-4a93-b245-69986ef77c5c",
+    "fields": {
+      "title": "Python Cookbook",
+      "author": "Jayzinga",
+      "price": "23.00",
+      "date_publication": "2022-05-25",
+      "cover": "covers/PythonCookbook.jpg"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": "aad0cc29-5e19-4c3e-a691-ae28e1a93c0f",
+    "fields": {
+      "title": "Django Unleashed",
+      "author": "Nathan",
+      "price": "34.00",
+      "date_publication": "2022-08-21",
+      "cover": ""
+    }
+  }
+]
